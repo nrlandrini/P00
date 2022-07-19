@@ -65,7 +65,7 @@ public class CalculatorTest {
 		int a = 100;
 		int b = 2;
 		
-		Calculator cal = new Calculator();
+		Calculator cal =new Calculator();
 		int actual = cal.divide(a, b);
 		
 		int expected = 50;
@@ -75,5 +75,5 @@ public class CalculatorTest {
 	
 	
 	
-
+heeloo
 }
